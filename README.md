@@ -1,4 +1,4 @@
-Rahman's LeetCode
+## Rahman's LeetCode
 
 Welcome to my LeetCode practice repository!
 
